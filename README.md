@@ -67,7 +67,9 @@ The analysis shows that academic performance is strongest among students aged 16
 
 ### References
 Data Source: https://www.kaggle.com/datasets/larsen0966/student-performance-data-set
+
 Tools Used: Microsoft Excel (Pivot Tables, Charts, Dashboard).
+
 External Resources: Sources include research and articles on student performance, academic achievement factors, school support systems, and lifestyle influences, as well as tutorials and documentation for Excel analytical functions.
 
 **Appendices:** Additional charts, tables, and raw data snapshots
